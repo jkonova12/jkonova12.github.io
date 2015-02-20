@@ -1,0 +1,36 @@
+
+body{
+        body background="home.jpg";
+		margin-left:30px;
+        color: black;
+    }
+    ul li a{
+      text-decoration: none;
+      color: black;
+      font-family: Segoe Print;
+      border: 3px solid black;
+	  margin-right:80px ;
+	
+	  margin-bottom: 35px;
+	  margin-top: 23px;
+      padding: 5px;
+    }
+    ul li{
+      display: inline;
+	  
+    }
+	h2{
+	color:black;
+	font-size: 25px;
+	font-family: Segoe Print;
+	margin-left: 30px;
+	}
+	h1{
+	color:black;
+	font-size: 50px;
+	font-family:Segoe Print;
+	margin-top: 10px;
+	}
+	#pictures{
+	margin-right: 300px;}
+	
